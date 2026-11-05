@@ -106,7 +106,7 @@ Base de datos: `empresa` · Colección: `empleados`
 
 ## Requisitos
 
-- [Node.js](https://nodejs.org/) 18 o superior
+- [Node.js](https://nodejs.org/) 20.19 o superior
 - MongoDB Community Server en local **o** una cuenta de [MongoDB Atlas](https://www.mongodb.com/atlas)
 
 ---
